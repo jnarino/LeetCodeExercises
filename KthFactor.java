@@ -1,6 +1,6 @@
 import javax.swing.tree.TreeNode;
 
-class Practica {
+class KthFactor {
 
     public static void main(String[] args) {
         // System.out.println("STARTING");
